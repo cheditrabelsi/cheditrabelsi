@@ -14,7 +14,7 @@ I'm Chedi Trabelsi, an enthusiastic IT student passionate about web development 
 - Other: Git, VS Code, etc.
 
 ### 📫 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white)]chedi-trabelsi-0b8861230
+<a href="https://www.linkedin.com/in/chedi-trabelsi-0b8861230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chedi trabelsi" height="30" width="40" /></a>
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=dev.to&logoColor=white)](Your Portfolio URL)
 
 ### 📊 GitHub Stats:
