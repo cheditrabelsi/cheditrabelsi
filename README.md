@@ -15,7 +15,7 @@ I'm Chedi Trabelsi, an enthusiastic IT student passionate about web development 
 
 ### 📫 Connect with Me:
 <a href="https://www.linkedin.com/in/chedi-trabelsi-0b8861230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chedi trabelsi" height="30" width="40" /></a>
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=dev.to&logoColor=white)](Your Portfolio URL)
+<a href="https://www.facebook.com/chedi.trabelsi.50" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chedi trabelsi" height="30" width="40" /></a>
 
 ### 📊 GitHub Stats:
 ![Chedi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
