@@ -7,7 +7,9 @@ I'm Chedi Trabelsi, an enthusiastic IT student passionate about web development 
 ### 🔭 Projects I'm Working On:
 -[**🔗 calculator**](https://github.com/cheditrabelsi/calculator) | HTML, CSS, JS <br>
 -[**🔗 e-commerce**](https://github.com/zakaria-jahir/e-commerce_front) | Angular|<br>
--[**🔗 compte_bancaire**](https://github.com/cheditrabelsi/compte_bancaire/tree/main) | Jee,Java,MySQL
+-[**🔗 compte_bancaire**](https://github.com/cheditrabelsi/compte_bancaire/tree/main) | Jee,Java,MySQL<br>
+-[**🔗 Doctor_back**](https://github.com/cheditrabelsi/docteur_back) | spring boot,MySQL<br>
+-[**🔗 Doctor_front**](https://github.com/raniawerfelli/Docteur_Front) | Angular
 
 ### 🚀 Skills and Tools:
 - Front-end: HTML, CSS, JavaScript, Angular
