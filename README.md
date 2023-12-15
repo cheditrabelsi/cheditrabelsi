@@ -21,6 +21,8 @@ I'm Chedi Trabelsi, an enthusiastic IT student passionate about web development 
 ![Chedi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cheditrabelsi&show_icons=true&theme=radical)
 
 ### 📸 GitHub Activity Graph:
-![Chedi's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=cheditrabelsi&theme=react-dark)
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph" title="GitHub Activity Graph">
+	  <img height="200px" src="https://github-readme-activity-graph.vercel.app/graph?username=cheditrabelsi&theme=tokyo-night&radius=16">
+  </a>
 
 Feel free to reach out and collaborate on interesting projects!
