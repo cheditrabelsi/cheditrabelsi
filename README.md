@@ -6,7 +6,7 @@ I'm Chedi Trabelsi, an enthusiastic IT student passionate about web development 
 
 ### 🔭 Projects I'm Working On:
 -[**🔗 calculator**](https://github.com/cheditrabelsi/calculator) | HTML, CSS, JS |
-- [Project 2](link_to_project_2): Brief description
+-[**🔗 e-commerce**](https://github.com/zakaria-jahir/e-commerce_front)| Angular
 
 ### 🚀 Skills and Tools:
 - Front-end: HTML, CSS, JavaScript, Angular
