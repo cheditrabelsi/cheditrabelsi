@@ -5,7 +5,7 @@ I'm Chedi Trabelsi, an enthusiastic IT student passionate about web development 
 🌱 I’m currently learning and exploring various front-end and back-end technologies.
 
 ### 🔭 Projects I'm Working On:
-- [Project 1](link_to_project_1): Brief description
+-[**🔗 calculator**](https://github.com/cheditrabelsi/calculator) | HTML, CSS, JS |
 - [Project 2](link_to_project_2): Brief description
 
 ### 🚀 Skills and Tools:
