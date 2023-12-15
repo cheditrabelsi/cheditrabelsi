@@ -9,18 +9,18 @@ I'm Chedi Trabelsi, an enthusiastic IT student passionate about web development 
 - [Project 2](link_to_project_2): Brief description
 
 ### 🚀 Skills and Tools:
-- Front-end: HTML, CSS, JavaScript, React
-- Back-end: Node.js, Express.js, MongoDB
-- Other: Git, VS Code, etc.
+- Front-end: HTML, CSS, JavaScript, Angular
+- Back-end: Java, Spring boot, MongoDB,MySQL
+- Other: Git, VS Code
 
 ### 📫 Connect with Me:
 <a href="https://www.linkedin.com/in/chedi-trabelsi-0b8861230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chedi trabelsi" height="30" width="40" /></a>
 <a href="https://www.facebook.com/chedi.trabelsi.50" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chedi trabelsi" height="30" width="40" /></a>
 
 ### 📊 GitHub Stats:
-![Chedi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![Chedi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cheditrabelsi&show_icons=true&theme=radical)
 
 ### 📸 GitHub Activity Graph:
-![Chedi's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=YourGitHubUsername&theme=react-dark)
+![Chedi's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=cheditrabelsi&theme=react-dark)
 
 Feel free to reach out and collaborate on interesting projects!
