@@ -29,6 +29,6 @@ I'm Chedi Trabelsi, an enthusiastic IT student passionate about web development 
 </a>
 
 ### 📫 How to reach me:
-📧 [cheditrabelsi822@gmail.com](mailto:cheditrabelsi822@gmail.com)
+📧 [cheditrabelsi10@gmail.com](mailto:cheditrabelsi10@gmail.com)
 
 Feel free to reach out and collaborate on interesting projects!
