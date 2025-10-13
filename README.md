@@ -12,7 +12,7 @@ I'm Chedi Trabelsi, an enthusiastic IT student passionate about web development 
 - [**🔗 Doctor_front**](https://github.com/raniawerfelli/Docteur_Front) | Angular
 
 ### 🚀 Skills and Tools:
-- Front-end: HTML, CSS, JavaScript, Angular
+- Front-end: HTML, CSS, JavaScript, Angular , React , Flutter
 - Back-end: Java, Spring Boot, MongoDB, MySQL
 - Other: Git, VS Code
 
